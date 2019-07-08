@@ -14510,6 +14510,7 @@ skelter2014
 - [acmsundar](https://github.com/acmsundar)
 - [HarishST] (https://github.com/HarishSTOnline)
 - Alva
+- [George Cepeda] (https://github.com/GeorgeCepeda)
 - [Kenneth Matuszewski] (https://github.com/kmatusze13)
 - [Lana] (https://github.com/lanaabirached)
 - [CarlosOGM](https://github.com/CarlosOGM)
